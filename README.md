@@ -7,7 +7,7 @@ The Purpose of this project is to create a university webpage that includes thre
 
 Students will be able to see what classes they have taken, what classes are avialble, what classes they can take, as well as the prerequisites for that class
 
-Professors will be able to view the students enrolled in their class as well as chnage their grade
+Professors will be able to view the students enrolled in their class as well as change their grade
 
 Department Adminstrators will be able to add any type of user as well as add a course or a section
 
