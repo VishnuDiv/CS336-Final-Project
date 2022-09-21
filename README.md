@@ -1,4 +1,4 @@
-# CS336-Final-Project
+# University Webpage
 
 The Purpose of this project is to create a university webpage that includes three users
 - Students
